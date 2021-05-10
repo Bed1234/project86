@@ -66,7 +66,7 @@ function my_keydown(e) {
     console.log("l");
      }
            
-         if(keyPressed=='82'){
+         if(keyPressed=='84'){
             new_image('thor_right_hand.png');
            console.log("t");
            }
@@ -75,13 +75,15 @@ function my_keydown(e) {
             new_image('captain_america_left_hand.png');
            console.log("h");
            }
+
+
+
            
            if(keyPressed=='38'){
             console.log("Up");
             Up();
             }
-            
-            
+          
             if(keyPressed=='40'){
                 console.log("Down");
                Down();
