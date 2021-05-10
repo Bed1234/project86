@@ -66,15 +66,15 @@ function my_keydown(e) {
     console.log("l");
      }
            
-         if(keyPressed=='84'){
-            new_image('thor_right_hand.png');
-           console.log("t");
-           }
+     if(keyPressed=='84'){
+     new_image('thor_right_hand.png');
+    console.log("t");
+    }
            
-         if(keyPressed=='72'){
-            new_image('captain_america_left_hand.png');
-           console.log("h");
-           }
+    if(keyPressed=='72'){
+     new_image('captain_america_left_hand.png');
+    console.log("h");
+    }
 
 
 
