@@ -61,10 +61,10 @@ function my_keydown(e) {
            }
     
            
-    if(keyPressed=='76'){
-    new_image('hulk_legs.png');
-    console.log("l");
-     }
+           if(keyPressed=='73'){
+            new_image('hulk_legs.png');
+             console.log("l");
+                    }
            
      if(keyPressed=='84'){
      new_image('thor_right_hand.png');
