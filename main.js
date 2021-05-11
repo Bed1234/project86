@@ -105,9 +105,9 @@ function my_keydown(e) {
        console.log("l");
        }
 
-       if(keyPressed=='80'){
+       if(keyPressed=='70'){
         new_image('hulk_left_hand.png');
-       console.log("P");
+       console.log("z");
        }
 
        if(keyPressed=='78'){
